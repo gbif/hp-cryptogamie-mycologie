@@ -6,7 +6,7 @@ background: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
 imageLicense:
 height: 70vh
 ---
-[Cryptogamie, Mycologie](https://sciencepress.mnhn.fr/en/periodiques/mycologie) is a fully refereed, international, electronic open access journal in systematics as well as ecology and evolution of all of fungi.
+[Cryptogamie, Mycologie](https://sciencepress.mnhn.fr/en/periodiques/mycologie) is a fully refereed, international, electronic open access journal in systematics as well as ecology and evolution of all groups of fungi.
 
 It provides immediate free open access to its content on the principle that making research freely available to the public supports and encourages a greater global exchange of knowledge.
 
