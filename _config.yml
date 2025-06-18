@@ -37,7 +37,7 @@ plugins:
 remote_theme: gbif/jekyll-hp-base-theme
 
 algae:
-  rootLang: en
+ rootLang: en
  latestPostLimit: 3
   # logo: /assets/images/fungi.svg  # Logo in navbar, will be displayed with 28px height
   # logoAndTitle: false           # include the title next to the logo
