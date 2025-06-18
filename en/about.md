@@ -12,7 +12,7 @@ It provides immediate free open access to its content on the principle that maki
 
 ### Journal history
 
-Cryptogamie, Mycologie continues as from 1980 the [Revue de mycologie](https://www.biodiversitylibrary.org/bibliography/169397) (1936-1979) founded by Roger Heim. From 2018, Cryptogamie, Bryologie is published online only with a continuous flow of publication (fast-track).
+Cryptogamie, Mycologie continues as from 1980 the [Revue de mycologie](https://www.biodiversitylibrary.org/bibliography/169397) (1936-1979) founded by Roger Heim and Jacques Duché. From 2018, Cryptogamie, Bryologie is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
