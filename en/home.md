@@ -3,8 +3,8 @@ lang-ref: home
 layout: home
 title: Cryptogamie, Mycologie
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
-imageLicense:
+background: /assets/images/placeholders/ascobolus.jpg
+imageLicense: Apothecia of _Ascobolus immersus_ Pers. Photo P. Silar.
 height: 90vh
 cta:
   - text: Material citations
