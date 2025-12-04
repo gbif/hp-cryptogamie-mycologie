@@ -2,8 +2,8 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/irpex_spiculifer_1135723338.jpg
-imageLicense:
+background: /assets/images/placeholders/arnium.jpg
+imageLicense: Perithecia of _Arnium arizonense_ (Griffiths) N.Lundq. & J.C.Krug. Photo P. Silar.
 height: 70vh
 ---
 [Cryptogamie, Mycologie](https://sciencepress.mnhn.fr/en/periodiques/mycologie) is a fully refereed, international, electronic open access journal in systematics as well as ecology and evolution of all groups of fungi.
@@ -12,7 +12,7 @@ It provides immediate free open access to its content on the principle that maki
 
 ### Journal history
 
-Cryptogamie, Mycologie continues as from 1980 the [Revue de mycologie](https://www.biodiversitylibrary.org/bibliography/169397) (1936-1979) founded by Roger Heim and Jacques Duché. From 2018, Cryptogamie, Bryologie is published online only with a continuous flow of publication (fast-track).
+Cryptogamie, Mycologie continues as from 1980 the [Revue de mycologie](https://www.biodiversitylibrary.org/bibliography/169397) (1936-1979) founded by Roger Heim and Jacques Duché. From 2018, Cryptogamie, Mycologie is published online only with a continuous flow of publication (fast-track).
 
 ### Journal data
 
